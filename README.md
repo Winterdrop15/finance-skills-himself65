@@ -60,6 +60,7 @@ Stock analysis, earnings, estimates, correlations, liquidity, ETFs, options payo
 | [earnings-recap](plugins/market-analysis/skills/earnings-recap/) | Post-earnings analysis — actual vs estimated EPS, price reaction, margin trends |
 | [estimate-analysis](plugins/market-analysis/skills/estimate-analysis/) | Analyst estimate deep-dive — revision trends, growth projections, historical accuracy |
 | [etf-premium](plugins/market-analysis/skills/etf-premium/) | ETF premium/discount vs NAV — market price comparison, peer analysis, category screener |
+| [finance-news-briefing](plugins/market-analysis/skills/finance-news-briefing/) | Targeted financial news research — web search + RSS feeds, verified and summarized into a source-linked briefing in the user's language |
 | [options-payoff](plugins/market-analysis/skills/options-payoff/) | Interactive options payoff charts with dynamic controls |
 | [saas-valuation-compression](plugins/market-analysis/skills/saas-valuation-compression/) | SaaS valuation compression analysis — ARR multiples, cause attribution, peer comparisons |
 | [sepa-strategy](plugins/market-analysis/skills/sepa-strategy/) | SEPA strategy analysis — Minervini's trend template, VCP patterns, entry points, position sizing |
